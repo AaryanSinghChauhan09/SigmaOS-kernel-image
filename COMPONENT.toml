@@ -3,7 +3,7 @@ name = "SigmaOS-kernel-image"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kernel-image component"
+description = "kernel image component"
 upstream = []
 
 [contract]
